@@ -1,0 +1,10 @@
+eclipse.preferences.version=1
+encoding//src/com/fjs/simplewebapp/conn/ConnectionUtils.java=UTF-8
+encoding//src/com/fjs/simplewebapp/conn/OracleConnUtils.java=UTF-8
+encoding//src/com/fjs/simplewebapp/filters/CookieFilter.java=UTF-8
+encoding//src/com/fjs/simplewebapp/filters/JDBCFilter.java=UTF-8
+encoding//src/com/fjs/simplewebapp/servlet/HomeServlet.java=UTF-8
+encoding//src/com/fjs/simplewebapp/servlet/LoginServlet.java=UTF-8
+encoding//src/com/fjs/simplewebapp/servlet/UserInfoServlet.java=UTF-8
+encoding//src/com/fjs/simplewebapp/utils/MyUtils.java=UTF-8
+encoding/<project>=UTF-8
