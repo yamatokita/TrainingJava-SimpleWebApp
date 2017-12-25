@@ -10,7 +10,7 @@ public class ConnectionUtils {
  
         // Ở đây tôi kết nối tới Oracle Database.
         // (Bạn có thể thay đổi sử dụng database khác).
-        return OracleConnUtils.getOracleConnection();
+        return MySQLConnUtils.getMySQLConnection();
          
         // return OracleConnUtils.getOracleConnection();
         // return MySQLConnUtils.getMySQLConnection();
